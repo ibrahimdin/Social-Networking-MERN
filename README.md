@@ -1,10 +1,6 @@
-
-
-# Social Media Complete Mern project
+# Social Media Complete Mern project!
 
 A MERN stack based project on social media application. It is completely working project. Its' completely responsive application. MongoDB Express React Redux NodeJs are user in this projec
-
-
 
 ## Features
 
